@@ -1,10 +1,10 @@
-# Market Anomaly Detection in S&P 500 Stocks
+# Market Anomaly Detection in top 5 S&P 500 Stocks
 
 An unsupervised machine learning model to identify irregular trading days across major U.S. equities using the Isolation Forest algorithm.
 
 ## Overview
 
-This project analyzes ten years of S&P 500 price data to learn normal market behavior from stable periods and flags anomalies such as the 2020 COVID crash and 2008 recession. The system uses cross-sectional market features to detect market-wide irregularities with high precision.
+This project analyzes ten years of 5 major stocks in the S&P 500 price data to learn normal market behavior from stable periods and flags anomalies such as the 2020 COVID and other events that have caused disruption. The system uses cross-sectional market features to detect market-wide irregularities with high precision.
 
 ## Features
 
